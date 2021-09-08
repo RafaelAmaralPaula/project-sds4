@@ -6,10 +6,10 @@
    - Possui **gráficos de barras e de rosca**
    - Front-end foi implantado na plataforma do **Netlify**
    - Back-end foi implantado na plataforma do **Heroku**
-   - Usamos **React** para construir nosso **front-end parte visual
+   - Usamos **React** para construir nosso **front-end parte visual**
    - Adicionamos o **bootstrap** para deixar visual do app mais elegante
    - Usamos a tecnologia Java juntamente com **Ecossistema do Spring** no back-end
-   - Possui um Dashboard
+   - Possui um **Dashboard**
    - Em produção usamos banco de dados **PostgreSQL**
    - E ambiente desenvolvimento optamos por usar **H2 Database Engine** por conta da praticidade
  
