@@ -13,7 +13,7 @@
    - Em produção usamos banco de dados **PostgreSQL**
    - E ambiente desenvolvimento optamos por usar **H2 Database Engine** por conta da praticidade
  
-# Tecnologias usadas 
+# Tecnologias usadas :
 
  ## Back-end
   - Java
@@ -37,15 +37,15 @@
  - Utilizamos a biblioteca [React-ApexChart](https://apexcharts.com/docs/react-charts/)
 
 
-# Link da aplicação na nuvem
+# Link da aplicação na nuvem :
 
 <https://dssales-rafael.netlify.app>
 
 
-# Visual da Aplicação
+# Visual da Aplicação :
    ![Image of app](https://dochub.com/rafaelamaraljr/7J4mQvgRvXYQrjgVj2pO5n/dashboard-app-png?dt=CckjqHi5zbHNPBzuc1kX)
    
-# Contato 
+# Contato :
  * [Instagram](https://www.instagram.com/rafael_amaral_paula)
  * [Linkedin](https://www.linkedin.com/in/rafael-amaral-449558148/)
  * [Youtube](https://www.youtube.com/channel/UC2QC0Jpjn1f0gHkk0TvvL_g)
