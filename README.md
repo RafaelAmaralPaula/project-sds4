@@ -38,14 +38,13 @@
  - Utilizamos a biblioteca [React-ApexChart](https://apexcharts.com/docs/react-charts/)
 
 
-# Link da aplicação na nuvem :
+# Links :
+ ## Netlify para acessar aplicação front-end 
+   <https://dssales-rafael.netlify.app>
 
-<https://dssales-rafael.netlify.app>
-
-# Link da aplicação back-end no swagger 
-
-<https://sds4-rafael.herokuapp.com/swagger-ui.html#/>
-
+ ## Link da aplicação back-end no swagger 
+   [Swagger](https://sds4-rafael.herokuapp.com/swagger-ui.html#/)
+  
 # Visual da Aplicação :
    ![Image of app](https://dochub.com/rafaelamaraljr/7J4mQvgRvXYQrjgVj2pO5n/dashboard-app-png?dt=CckjqHi5zbHNPBzuc1kX)
    
