@@ -12,6 +12,7 @@
    - Possui um **Dashboard**
    - Em produção usamos banco de dados **PostgreSQL**
    - E ambiente desenvolvimento optamos por usar **H2 Database Engine** por conta da praticidade
+   - Uso do **swagger** para documentar a API
  
 # Tecnologias usadas :
 
@@ -41,6 +42,9 @@
 
 <https://dssales-rafael.netlify.app>
 
+# Link da aplicação back-end no swagger 
+
+<https://sds4-rafael.herokuapp.com/swagger-ui.html#/>
 
 # Visual da Aplicação :
    ![Image of app](https://dochub.com/rafaelamaraljr/7J4mQvgRvXYQrjgVj2pO5n/dashboard-app-png?dt=CckjqHi5zbHNPBzuc1kX)
