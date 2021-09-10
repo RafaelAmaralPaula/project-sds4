@@ -1,5 +1,6 @@
 import ImgDsDark from 'assets/img/ds-dark.svg';
 import IconGitHub from 'assets/img/github.png';
+import { Link } from 'react-router-dom';
 
 function NavBar() {
     return (
@@ -7,7 +8,9 @@ function NavBar() {
     navbar navbar-dark bg-dark">
         <div className="container ">
             <nav className="my-2 my-md-0 mr-md-3">
-                <img src={ImgDsDark} alt="DevSuperior" width="120" />
+                <Link to="/">
+                    <img src={ImgDsDark} alt="DevSuperior" width="120" />
+                </Link>
             </nav>
             <nav className="nav justify-content-end">
                 <a href="https://github.com/RafaelAmaralPaula/project-sds4" target="blank">
