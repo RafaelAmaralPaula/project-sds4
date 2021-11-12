@@ -20,7 +20,6 @@
   - Java
   - Spring Web
   - Spring Data Jpa
-  - Spring Security
   - Spring Boot
   - PostgreSQL
   - H2 Database Engine
